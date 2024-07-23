@@ -21,14 +21,7 @@
 
 # Projeto artigo técnico gerado por I.A.s
 
-
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me).
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=ktfS6qIy7XM" title="Preview do Conteúdo">
-  <img src=".github/assets/video-preview.png" width="80%">
-  </a>
-<p>
+ > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui aluna na plataforma da [DIO](https://dio.me).
 
 Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável e com foco em promover sua autoridade técnica.
 
@@ -37,8 +30,8 @@ Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura a
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) - para título e conteúdo
-- [Lexica.art](https://lexica.art/) - para gerar imagens
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint) - Para formatação de banners e Layouts
+- [Copilot](https://copilot.microsoft.com/) - para gerar imagens
+- [Photoshop](https://www.adobe.com/br/products/photoshop/landpa.html?sdid=KQPOM&mv=search&ef_id=CjwKCAjwhvi0BhA4EiwAX25uj3ZyDsv0ARW7_pGyVr28Jh9x688nitbwGQFMp6f5AGsX4EhjblLXjhoC13wQAvD_BwE:G:s&s_kwcid=AL!3085!3!534509111647!e!!g!!photoshop!188192502!10077842982&gad_source=1&gclid=CjwKCAjwhvi0BhA4EiwAX25uj3ZyDsv0ARW7_pGyVr28Jh9x688nitbwGQFMp6f5AGsX4EhjblLXjhoC13wQAvD_BwE) - Para formatação de banners e Layouts
 
 ## 📄 Prompts e ferramentas
 
@@ -47,48 +40,47 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie 10 headlines para nomes de artigos sobre o assunto Angular - Diretivas                                                                                                                                                                                                    |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | crie 10 headlines para nomes de artigos sobre o assunto CSS - Seletores                                                                                                                                                                                                    |
+| conteúdo | Comporte-se como um escritor de artigos técnicos front-end e escreva o Artigo atendendo as regras abaixo {REGRAS} No máximo 5 linhas por bloco de explicação, Me explique de maneira informal, como se eu fosse uma criança de 10 anos, Os blocos que serão criados estão abaixo (O que são seletores CSS, Quais tipos de seletores existem, Cite exemplos com código utilizando seletores em cenários fictícios, Diga em quais ocasiões casa seletor é recomendado, Dê dicas extras sobre a organização dos seletores), Faça um call to action para as minhas redes sociais, Coloque 3 hashtags que façam sentido |
 
 
-Lexica.art：
+Copilot：
 
-- No léxica utilizamos o acervo público de imagens geradas por outras pessoas, os termos de pesquisa que utilizei durante a gravação do conteúdo foram:
+- No copilot geramos a imagem da logo do css em um diamante roxo, o prompt foi o seguinte:
 
-• Angular
-
+• make the css logo purple on a neutral background for me, like an amethyst gem
 
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens do acervo público geradas via Lexica.art
+- Imagens geradas via Copilot
 
 ## 📚 Materiais
 
+- Imagens utilizadas em `assets`
 - prompts utilizados
 
 ## 🛠️ Instruções de execução
 
 Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação, o passo a passo em vídeo pode ser conferido na plataforma da [DIO](https://dio.me).
 
-## 👨‍💻 Expert
+## 👨‍💻 Autor
 
 <p>
     <img 
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src="https://avatars.githubusercontent.com/u/109982454?v=4"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspJulyana Salvador<br>
     &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
+    <a href="https://github.com/JSalvadorNET">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/julyana-salvador-3a68852b6/">LinkedIn</a>
 &nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
+    <a href="https://www.instagram.com/juhslvd/">
     Instagram</a>
 &nbsp;|&nbsp;</p>
 </p>
